@@ -20,7 +20,6 @@ Currently focused on **Python backend development** with FastAPI, PostgreSQL, an
 
 **[user-management-api](https://github.com/AdrianCervantes53/user-management-api)** — A production-quality REST API built with FastAPI and PostgreSQL, featuring JWT authentication, a shared notes system with role-based access (viewer/editor), soft delete, pagination, and a full pytest test suite. Containerized with Docker and managed with Alembic migrations.
 
-This is my main portfolio project — built from scratch with architecture decisions I can defend.
 
 ---
 
