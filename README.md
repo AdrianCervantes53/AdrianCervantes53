@@ -10,8 +10,8 @@ Currently focused on **Python backend development** with FastAPI, PostgreSQL, an
 
 **Backend & APIs** — FastAPI, Flask, SQLAlchemy 2.0, Alembic, JWT authentication  
 **Databases** — PostgreSQL, SQL Server  
-**Languages** — Python (primary), C#, Bash  
-**Data & Tooling** — NumPy, CSV processing, Git, Docker, Linux  
+**Languages** — Python (primary), C#, JS  
+**Data & Tooling** — NumPy, OpenCV, Git, Docker, Linux, Pytorch 
 **Testing** — pytest, TestClient, dependency injection overrides  
 
 ---
@@ -33,6 +33,6 @@ Currently focused on **Python backend development** with FastAPI, PostgreSQL, an
 
 ## Reach me
 
-**Email:** your@email.com  
-**LinkedIn:** *(add link)*  
+**Email:** adrianosohuerta@gmail.com  
+**LinkedIn:** www.linkedin.com/in/adrian-ch-developer
 **English:** B2 — comfortable in technical conversations
