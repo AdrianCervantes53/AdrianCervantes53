@@ -1,6 +1,6 @@
 # Hi, I'm Adrian
 
-I'm a Robotics Engineer who went deep into software — specifically backend development. I enjoy building APIs, designing data models, and thinking carefully about how systems fit together.
+I'm a Robotics Engineer focused in software development — specifically backend development. I like to build APIs, design data models, find ways to automatize things using AI and thinking carefully about how systems fit together. I also have experience developing computer vision projects with YOLO models for detection, segmentation and tracking.
 
 Currently focused on **Python backend development** with FastAPI, PostgreSQL, and Docker, and actively looking for backend engineering opportunities.
 
@@ -11,22 +11,25 @@ Currently focused on **Python backend development** with FastAPI, PostgreSQL, an
 **Backend & APIs** — FastAPI, Flask, SQLAlchemy 2.0, Alembic, JWT authentication  
 **Databases** — PostgreSQL, SQL Server  
 **Languages** — Python (primary), C#, JS  
-**Data & Tooling** — NumPy, OpenCV, Git, Docker, Linux, Pytorch 
+**Data & Tooling** — NumPy, OpenCV, Git, Docker, Linux, Pytorch
 **Testing** — pytest, TestClient, dependency injection overrides  
 
 ---
 
 ## What I'm building
 
-**[user-management-api](https://github.com/AdrianCervantes53/user-management-api)** — A production-quality REST API built with FastAPI and PostgreSQL, featuring JWT authentication, a shared notes system with role-based access (viewer/editor), soft delete, pagination, and a full pytest test suite. Containerized with Docker and managed with Alembic migrations.
+**[user-management-api](https://github.com/AdrianCervantes53/user-management-api)** — A REST API built with FastAPI and PostgreSQL, featuring JWT authentication, a shared notes system with role-based access (viewer/editor), soft delete, pagination, and a full pytest test suite. Containerized with Docker and managed with Alembic migrations.
+
+**[price-tracking-api](https://github.com/AdrianCervantes53/price-tracking-api)** — An API designed to track product prices in order to monitor price fluctuations, view price history, and identify buying opportunities.
 
 
 ---
 
 ## What's next
 
-- Adding a second project focused on data processing and API consumption
-- Deploying to a cloud provider and adding GitHub Actions CI/CD
+- Collaborate in open sourced projects
+- Create projects to learn new tchnologies and tools
+- Migrate the robot-trajectory-sim repo to python
 - Open to collaborating on backend or automation projects
 
 ---
