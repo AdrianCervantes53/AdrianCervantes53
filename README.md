@@ -22,6 +22,7 @@ Currently focused on **Python backend development** with FastAPI, PostgreSQL, an
 
 **[price-tracking-api](https://github.com/AdrianCervantes53/price-tracking-api)** — An API designed to track product prices in order to monitor price fluctuations, view price history, and identify buying opportunities.
 
+**[robot-trajectory-sim](https://github.com/AdrianCervantes53/robot-trajectory-sim)** — A kinematic simulator for a 6-DOF robotic arm, ported from MATLAB to Python with a REST/WebSocket API and a 3D browser-based front end.
 
 ---
 
@@ -29,7 +30,6 @@ Currently focused on **Python backend development** with FastAPI, PostgreSQL, an
 
 - Collaborate in open sourced projects
 - Create projects to learn new tchnologies and tools
-- Migrate the robot-trajectory-sim repo to python
 - Open to collaborating on backend or automation projects
 
 ---
