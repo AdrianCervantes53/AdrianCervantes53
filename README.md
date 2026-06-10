@@ -1,41 +1,56 @@
 # Hi, I'm Adrian
 
-I'm a Robotics Engineer focused in software development — specifically backend development. I like to build APIs, design data models, find ways to automatize things using AI and thinking carefully about how systems fit together. I also have experience developing computer vision projects with YOLO models for detection, segmentation and tracking.
+Backend Python developer and Robotics Engineer — I build REST APIs, design data models, and ship computer vision systems for industrial automation. I care about clean architecture, testable code, and systems that work in production.
 
-Currently focused on **Python backend development** with FastAPI, PostgreSQL, and Docker, and actively looking for backend engineering opportunities.
+Currently open to **backend or computer vision engineering** opportunities.
 
 ---
 
 ## What I work with
 
-**Backend & APIs** — FastAPI, Flask, SQLAlchemy 2.0, Alembic, JWT authentication  
-**Databases** — PostgreSQL, SQL Server  
-**Languages** — Python (primary), C#, JS  
-**Data & Tooling** — NumPy, OpenCV, Git, Docker, Linux, Pytorch
-**Testing** — pytest, TestClient, dependency injection overrides  
+**Languages** — Python (primary), JavaScript, C#  
+**Backend & APIs** — FastAPI, SQLAlchemy 2.0, Alembic, REST APIs, JWT  
+**Databases** — PostgreSQL, MongoDB, SQL Server  
+**Testing** — pytest, respx, mongomock-motor, TestClient  
+**DevOps & Tooling** — Docker, Git, Linux, AWS  
+**Computer Vision** — OpenCV, NumPy, YOLO (v6/v8), PyTorch  
 
 ---
 
-## What I'm building
+## Experience
 
-**[user-management-api](https://github.com/AdrianCervantes53/user-management-api)** — A REST API built with FastAPI and PostgreSQL, featuring JWT authentication, a shared notes system with role-based access (viewer/editor), soft delete, pagination, and a full pytest test suite. Containerized with Docker and managed with Alembic migrations.
-
-**[price-tracking-api](https://github.com/AdrianCervantes53/price-tracking-api)** — An API designed to track product prices in order to monitor price fluctuations, view price history, and identify buying opportunities.
-
-**[robot-trajectory-sim](https://github.com/AdrianCervantes53/robot-trajectory-sim)** — A kinematic simulator for a 6-DOF robotic arm, ported from MATLAB to Python with a REST/WebSocket API and a 3D browser-based front end.
+**Software Engineer (Internship) — Grupo GPA, Software Division** *(Jun 2023 – Dec 2024)*  
+Built real-time computer vision systems for agricultural machinery using YOLOv6/v8, OpenCV, and custom Roboflow datasets — object counting, quality inspection, and coordinate estimation for robotic systems. Optimized inference pipelines for 20–30% performance gains. Developed PyQt desktop apps integrating CV pipelines, tested in live field environments. Also led the migration of an Android app from XML to Jetpack Compose.
 
 ---
 
-## What's next
+## Projects
 
-- Collaborate in open sourced projects
-- Create projects to learn new tchnologies and tools
-- Open to collaborating on backend or automation projects
+**[user-management-api](https://github.com/AdrianCervantes53/user-management-api)** — FastAPI, PostgreSQL, JWT, Alembic  
+Multi-user backend with JWT authentication, role-based access control (viewer/editor), shared notes, soft delete, pagination, and a full pytest suite. Containerized with Docker, schema managed with Alembic migrations.
+
+**[price-tracking-api](https://github.com/AdrianCervantes53/price-tracking-api)** — FastAPI, MongoDB, pytest  
+REST API that tracks asset prices from multiple external sources using async tasks and historical storage. Includes JWT auth, user subscriptions, and ~68 tests written with respx and mongomock-motor.
+
+**[robot-trajectory-sim](https://github.com/AdrianCervantes53/robot-trajectory-sim)** — FastAPI, WebSockets, Three.js  
+6-DOF robotic arm kinematic simulator ported from MATLAB to Python. REST/WebSocket backend for real-time trajectory updates with a 3D browser-based front end. 101 tests covering DH matrix math and WebSocket protocol.
+
+**[GlassCV](https://github.com/AdrianCervantes53/GlassCV)** — OpenCV, PyQt6, MSS  
+Desktop app for real-time screenshot capture and computer vision processing. Capture and processing are decoupled into PyQt6 QThreads with a modular OpenCV filter chain.
+
+---
+
+## Certifications
+
+- AWS Academy Cloud Foundations (2023)
+- AI Development: From 0 to Production — BIG School (2026)
+- TOEFL ITP — English B2 (2022)
 
 ---
 
 ## Reach me
 
 **Email:** adrianosohuerta@gmail.com  
-**LinkedIn:** www.linkedin.com/in/adrian-ch-developer
-**English:** B2 — comfortable in technical conversations
+**LinkedIn:** [linkedin.com/in/adrian-ch-developer](https://www.linkedin.com/in/adrian-ch-developer)  
+**Portfolio:** [adriancervantes53.work](https://adriancervantes53.work)  
+**English:** B2 — comfortable in technical conversations  
