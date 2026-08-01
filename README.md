@@ -1,15 +1,16 @@
 # Hi, I'm Adrian
 
-Backend Python developer and Robotics Engineer — I build REST APIs, design data models, and ship computer vision systems for industrial automation. I care about clean architecture, testable code, and systems that work in production.
+Python developer and Robotics Engineer — I build REST APIs, design data models, and develop computer vision apps for industrial automation. I care about clean architecture, testable code, and apps that work in production.
 
-Currently open to **backend or computer vision engineering** opportunities.
+Currently open to **Fullstack or computer vision engineering** opportunities.
 
 ---
 
 ## What I work with
 
-**Languages** — Python (primary), JavaScript, C#  
+**Languages** — Python (primary), JavaScript, C#, Kotlin  
 **Backend & APIs** — FastAPI, SQLAlchemy 2.0, Alembic, REST APIs, JWT  
+**Frontend** — React, Jetpack Compose, Html, Css, PyQt6
 **Databases** — PostgreSQL, MongoDB, SQL Server  
 **Testing** — pytest, respx, mongomock-motor, TestClient  
 **DevOps & Tooling** — Docker, Git, Linux, AWS  
@@ -28,6 +29,9 @@ Built real-time computer vision systems for agricultural machinery using YOLOv6/
 
 **[user-management-api](https://github.com/AdrianCervantes53/user-management-api)** — FastAPI, PostgreSQL, JWT, Alembic  
 Multi-user backend with JWT authentication, role-based access control (viewer/editor), shared notes, soft delete, pagination, and a full pytest suite. Containerized with Docker, schema managed with Alembic migrations.
+
+**[blok-app](https://github.com/AdrianCervantes53/blok-app)** — FastAPI, PostgreSQL, React, Jetpack Compose  
+Personal management system built as a full-stack project across three repositories.
 
 **[price-tracking-api](https://github.com/AdrianCervantes53/price-tracking-api)** — FastAPI, MongoDB, pytest  
 REST API that tracks asset prices from multiple external sources using async tasks and historical storage. Includes JWT auth, user subscriptions, and ~68 tests written with respx and mongomock-motor.
