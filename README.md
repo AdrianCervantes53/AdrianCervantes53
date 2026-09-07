@@ -29,7 +29,7 @@ Currently open to **Fullstack or computer vision engineering** opportunities.
 
 ## Experience
 
-**Software Engineer (Internship) — Grupo GPA, Software Division** *(Jun 2023 – Dec 2024)*  
+**Software Engineer (Internship) — Grupo GPA, Software Division** *(Jun 2023 – Ene 2025)*  
 I led projects in the area of industrial software, from requirements gathering, design, architecture, to implementation with the client, using various backend and frontend languages and tools (Python, C#, Kotlin, SQLServer, Git, SQLAlchemy, PyQt6, WinForms). I developed real-time AI computer vision systems for agricultural machinery using YOLOv6/v8, OpenCV and custom datasets for object counting, quality inspection and coordinate estimation for robotic systems. I collaborated with mechanical and electrical engineers in multidisciplinary product development teams.
 
 ---
