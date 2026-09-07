@@ -63,5 +63,5 @@ Desktop app for real-time screenshot capture and computer vision processing. Cap
 
 **Email:** adrianosohuerta@gmail.com  
 **LinkedIn:** [linkedin.com/in/adrian-ch-developer](https://www.linkedin.com/in/adrian-ch-developer)  
-**Portfolio:** [[azlesh.dev](https://adriancervantes53.work)  ](https://portfolio.azlesh.dev/)
+**Portfolio:** [portfolio.azlesh.dev](https://portfolio.azlesh.dev/)
 **English:** B2 — comfortable in technical conversations  
