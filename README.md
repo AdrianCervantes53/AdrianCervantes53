@@ -1,6 +1,6 @@
 # Hi, I'm Adrian
 
-Python developer and Robotics Engineer — I build REST APIs, design data models, and develop computer vision apps for industrial automation. I care about clean architecture, testable code, and apps that work in production.
+Software developer with experience creating applications from scratch, building REST APIs and implementing vision systems with real-time AI for industrial automation. Comfortable working in backend services, frontend, APIs and databases, continually learning new technologies self-taught.
 
 Currently open to **Fullstack or computer vision engineering** opportunities.
 
@@ -8,33 +8,38 @@ Currently open to **Fullstack or computer vision engineering** opportunities.
 
 ## What I work with
 
-**Languages** — Python (primary), JavaScript, C#, Kotlin  
-**Backend & APIs** — FastAPI, SQLAlchemy 2.0, Alembic, REST APIs, JWT  
-**Frontend** — React, Jetpack Compose, Html, Css, PyQt6
+**Languages** — Python (primary), TypeScript, C#, Kotlin  
+**Backend & APIs** — FastAPI, SQLAlchemy, Alembic, REST APIs, JWT  
+**Frontend** — React, Jetpack Compose, Html, Css, PyQt6, WinForms
 **Databases** — PostgreSQL, MongoDB, SQL Server  
 **Testing** — pytest, respx, mongomock-motor, TestClient  
 **DevOps & Tooling** — Docker, Git, Linux, AWS  
 **Computer Vision** — OpenCV, NumPy, YOLO (v6/v8), PyTorch  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
 ## Experience
 
 **Software Engineer (Internship) — Grupo GPA, Software Division** *(Jun 2023 – Dec 2024)*  
-Built real-time computer vision systems for agricultural machinery using YOLOv6/v8, OpenCV, and custom Roboflow datasets — object counting, quality inspection, and coordinate estimation for robotic systems. Optimized inference pipelines for 20–30% performance gains. Developed PyQt desktop apps integrating CV pipelines, tested in live field environments. Also led the migration of an Android app from XML to Jetpack Compose.
+I led projects in the area of industrial software, from requirements gathering, design, architecture, to implementation with the client, using various backend and frontend languages and tools (Python, C#, Kotlin, SQLServer, Git, SQLAlchemy, PyQt6, WinForms). I developed real-time AI computer vision systems for agricultural machinery using YOLOv6/v8, OpenCV and custom datasets for object counting, quality inspection and coordinate estimation for robotic systems. I collaborated with mechanical and electrical engineers in multidisciplinary product development teams.
 
 ---
 
 ## Projects
 
 **[user-management-api](https://github.com/AdrianCervantes53/user-management-api)** — FastAPI, PostgreSQL, JWT, Alembic  
-Multi-user backend with JWT authentication, role-based access control (viewer/editor), shared notes, soft delete, pagination, and a full pytest suite. Containerized with Docker, schema managed with Alembic migrations.
+• I built a multi-user backend system with authentication, role access control, and shared notes functionality. 
+• Implemented authentication based on access and refresh tokens, relational database schemes with migrations via Alembic.
 
 **[blok-app](https://github.com/AdrianCervantes53/blok-app)** — FastAPI, PostgreSQL, React, Jetpack Compose  
-Personal management system built as a full-stack project across three repositories.
-
-**[price-tracking-api](https://github.com/AdrianCervantes53/price-tracking-api)** — FastAPI, MongoDB, pytest  
-REST API that tracks asset prices from multiple external sources using async tasks and historical storage. Includes JWT auth, user subscriptions, and ~68 tests written with respx and mongomock-motor.
+• Modular personal management system (notes, agenda, inventory, nutrition) with client-server architecture built as a full-stack project across three repositories. 
+• Backend REST API with JWT authentication, relational schemes and migrations via Alembic. 
+• Web client in React and Android client in Kotlin/Jetpack Compose.
 
 **[robot-trajectory-sim](https://github.com/AdrianCervantes53/robot-trajectory-sim)** — FastAPI, WebSockets, Three.js  
 6-DOF robotic arm kinematic simulator ported from MATLAB to Python. REST/WebSocket backend for real-time trajectory updates with a 3D browser-based front end. 101 tests covering DH matrix math and WebSocket protocol.
@@ -46,8 +51,8 @@ Desktop app for real-time screenshot capture and computer vision processing. Cap
 
 ## Certifications
 
-- AWS Academy Cloud Foundations (2023)
 - AI Development: From 0 to Production — BIG School (2026)
+- AWS Academy Cloud Foundations (2023)
 - TOEFL ITP — English B2 (2022)
 
 ---
@@ -56,5 +61,5 @@ Desktop app for real-time screenshot capture and computer vision processing. Cap
 
 **Email:** adrianosohuerta@gmail.com  
 **LinkedIn:** [linkedin.com/in/adrian-ch-developer](https://www.linkedin.com/in/adrian-ch-developer)  
-**Portfolio:** [adriancervantes53.work](https://adriancervantes53.work)  
+**Portfolio:** [[azlesh.dev](https://adriancervantes53.work)  ](https://portfolio.azlesh.dev/)
 **English:** B2 — comfortable in technical conversations  
