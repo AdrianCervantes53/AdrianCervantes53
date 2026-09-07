@@ -4,6 +4,8 @@ Software developer with experience creating applications from scratch, building 
 
 Currently open to **Fullstack or computer vision engineering** opportunities.
 
+**English:** B2 — comfortable in technical conversations
+
 ---
 
 ## What I work with
@@ -64,4 +66,4 @@ Desktop app for real-time screenshot capture and computer vision processing. Cap
 **Email:** adrianosohuerta@gmail.com  
 **LinkedIn:** [linkedin.com/in/adrian-ch-developer](https://www.linkedin.com/in/adrian-ch-developer)  
 **Portfolio:** [portfolio.azlesh.dev](https://portfolio.azlesh.dev/)
-**English:** B2 — comfortable in technical conversations  
+
